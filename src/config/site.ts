@@ -50,7 +50,7 @@ export const site = parseSite({
   url: resolveSiteUrl(process.env.SITE_URL),
   repository: 'https://github.com/nandomoreirame/terminalnoir-astro-theme',
   author: 'Your name',
-  version: '0.1.0',
+  version: '0.0.1',
   ctas: {
     en: {
       header: { label: 'Get started', href: '/docs#quickstart' },
